@@ -155,6 +155,9 @@ Pitch and tuning
 .. autosummary::
     :toctree: generated/
 
+    pyin
+    yin
+
     estimate_tuning
     pitch_tuning
     piptrack
